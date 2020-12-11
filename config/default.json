@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "anton 1922 mern",
+  "mongoUri": "mongodb+srv://anton:Stalker1922@cluster0.gdklz.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
